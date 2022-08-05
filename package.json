@@ -1,0 +1,26 @@
+{
+  "name": "laila",
+  "version": "1.0.0",
+  "description": "implementasi node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karomahlailatul/task_javascript_nodejs_test.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "laila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karomahlailatul/task_javascript_nodejs_test/issues"
+  },
+  "homepage": "https://github.com/karomahlailatul/task_javascript_nodejs_test#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
